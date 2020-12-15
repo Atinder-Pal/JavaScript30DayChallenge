@@ -1,4 +1,4 @@
-## 01 JavaScript drum STick
+## 01 JavaScript Drum Stick
 In this practice, the user can simulate functionality of an online Keyboard. The keys "A,S,D,F,G,H,J,K,L" will each produce a different sound and will get highlighted when pressed by a user.<br/>
 We are provided with the HTML, CSS, and sound clips necessary to create this page/application. All we need is to add JS to add the functionality.
 
