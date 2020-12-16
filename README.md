@@ -12,8 +12,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 
 ## Table Of Contents
 
-1. [ ] JavaScript Drum Kit
-2. [ ] JS + CSS Clock
+1. [x] ~~JavaScript Drum Kit~~
+2. [x] ~~JS + CSS Clock~~
 3. [ ] CSS Variables
 4. [ ] Array Cardio, Day 1
 5. [ ] Flex Panel Gallery
