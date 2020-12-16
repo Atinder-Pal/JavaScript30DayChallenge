@@ -1,7 +1,7 @@
 # JavaScript30DayChallenge
 My solutions to JavaScript30 challenges by wesbos.
 
-Filename with index-START.html is my solution to the JS Challenge whereas Filename with index-FINISHEd.html is the original solution by wesbos.
+Filename with index-START.html is my solution to the JS Challenge whereas Filename with index-FINISHED.html is the original solution by wesbos.
 
 
 # JavaScript30
@@ -21,7 +21,7 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 7. [x] ~~Array Cardio, Day 2~~
 8. [x] ~~Fun with HTML5 Canvas~~ 
 9. [x] ~~Dev Tools Domination~~
-10. [ ] Hold Shift and Check Checkboxes
+10. [x] ~~Hold Shift and Check Checkboxes~~
 11. [ ] Custom Video Player
 12. [ ] Key Sequence Detection
 13. [ ] Slide in on Scroll
