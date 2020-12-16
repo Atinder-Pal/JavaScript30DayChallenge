@@ -27,8 +27,10 @@ We are provided with the HTML, CSS necessary to start this page/application. All
     (courtesy of https://github.com/amelieyeh/JS30/tree/master/08-Fun%20with%20HTML5%20Canvas)
 
 4. Events 
-    * transitionend
-    * keydown
+    * mousemove
+    * mousedown
+    * mouseup
+    *mouseout
 
 #### HTML
 1. [Canvas](https://www.w3schools.com/html/html5_canvas.asp): in HTML5 `<canvas>` is a container used to draw graphics using JavaScript. Canvas is just a container, we need to use JS to draw on it. This [video](https://www.youtube.com/watch?v=EO6OkltgudE) gives a nice tutorial to make cool graphics using HTML5 canvas via JS. More details [here](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
