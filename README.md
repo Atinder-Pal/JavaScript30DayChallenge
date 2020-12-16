@@ -16,10 +16,10 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 2. [x] ~~JS + CSS Clock~~
 3. [x] ~~CSS Variables~~
 4. [x] ~~Array Cardio, Day 1~~
-5. [ ] Flex Panel Gallery
-6. [ ] Type Ahead
-7. [ ] Array Cardio, Day 2
-8. [ ] Fun with HTML5 Canvas 
+5. [x] ~~Flex Panel Gallery~~
+6. [x] ~~Type Ahead~~
+7. [x] ~~Array Cardio, Day 2~~
+8. [x] ~~Fun with HTML5 Canvas~~ 
 9. [ ] Dev Tools Domination
 10. [ ] Hold Shift and Check Checkboxes
 11. [ ] Custom Video Player
