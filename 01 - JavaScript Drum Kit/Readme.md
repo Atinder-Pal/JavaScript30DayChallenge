@@ -6,7 +6,7 @@ We are provided with the HTML, CSS, and sound clips necessary to create this pag
 #### JavaScript
 1. [querySelector() function](https://www.w3schools.com/jsref/met_document_queryselector.asp#:~:text=HTML%20DOM%20querySelector%20%28%29%20Method%201%20Definition%20and,attributes%2C%20values%20of%20attributes%2C%20etc.%20More%20items...%20)
     * Syntax:  document.querySelector(CSS selectors)
-    * It not nly works on document but any [HTML element](https://www.w3schools.com/jsref/met_element_queryselector.asp)
+    * It not only works on document but any [HTML element](https://www.w3schools.com/jsref/met_element_queryselector.asp)
 
 2. [Node List](https://www.w3schools.com/js/js_htmldom_nodelist.asp)
     * Node List is different from Array and has less methods. You can easily check methods in console under NodeList- _proto
