@@ -13,7 +13,7 @@ function getVideo(){
 
         //For firefox, we need to change code as following
         //Citation: https://stackoverflow.com/questions/52677448/typeerror-argument-1-is-not-valid-for-any-of-the-1-argument-overloads-of-url-cr
-        video.src = localMediaStream;
+        video.srcObject = localMediaStream;
         video.play();
     })
     .catch(error => {
