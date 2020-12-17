@@ -28,8 +28,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 14. [x] ~~JavaScript References vs. Copying~~
 15. [x] ~~LocalStorage~~
 16. [x] ~~Mouse Move Shadow~~
-17. [ ] Sort Without Articles
-18. [ ] Adding Up Times with Reduce
+17. [x] ~~Sort Without Articles~~
+18. [x] ~~Adding Up Times with Reduce~~
 19. [ ] Webcam Fun
 20. [ ] Speech Detection
 21. [ ] Geolocation
