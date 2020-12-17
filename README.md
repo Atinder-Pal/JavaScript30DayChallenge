@@ -22,8 +22,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 8. [x] ~~Fun with HTML5 Canvas~~ 
 9. [x] ~~Dev Tools Domination~~
 10. [x] ~~Hold Shift and Check Checkboxes~~
-11. [ ] Custom Video Player
-12. [ ] Key Sequence Detection
+11. [x] ~~Custom Video Player~~
+12. [x] ~~Key Sequence Detection~~
 13. [ ] Slide in on Scroll
 14. [ ] JavaScript References vs. Copying
 15. [ ] LocalStorage

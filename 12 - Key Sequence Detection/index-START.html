@@ -6,7 +6,17 @@
   <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
 </head>
 <body>
+  <h2>Type to see magic!!</h2>
 <script>
+  const pressedKeys =[];
+  const matchingWord = 'atinder';
+
+  window.addEventListener('keyup',(e)=> {
+    pressedKeys.push(e.key);
+    pressedKeys.splice(-matchingWord -1, pressedKeys.length - matchingWord.length);
+
+    if(pressedKeys.join('').includes(matchingWord)) cornify_add();
+  });
 </script>
 </body>
 </html>
