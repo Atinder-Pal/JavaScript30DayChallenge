@@ -35,8 +35,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 21. [x] ~~Geolocation~~
 22. [x] ~~Follow Along Link Highlighter~~
 23. [x] ~~Speech Synthesis~~
-24. [ ] Sticky Nav
-25. [ ] Event Capture, Propagation, Bubbling, and Once
+24. [x] ~~Sticky Nav~~
+25. [x] ~~Event Capture, Propagation, Bubbling, and Once~~
 26. [ ] Stripe Follow Along Nav
 27. [ ] Click and Drag
 28. [ ] Video Speed Controller
