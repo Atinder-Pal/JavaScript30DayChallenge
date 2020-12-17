@@ -42,7 +42,26 @@
 
 <button></button>
 <script>
+const divs = document.querySelectorAll('div');
 
+function logText(e){
+  console.log(this.classList.value);
+  console.log(this);
+  // this will stop bubbling. so events will no longer be triggered on parents
+  //browser will capture the events from up to down but then bubbling will trigger the last event and stop propagating the event trigger on the upper parents
+  e.stopPropagation();
+}
+// function is fired up not on way up (as in bubbling) but on the way down when events are captured
+//this is because we provided third argument here -options object which says capture: true i.e fire up function on capture instead of on bubble
+divs.forEach(div => div.addEventListener('click', logText,{
+  capture: true
+}));
+
+//demo the use of once property in options object
+divs.forEach(div => div.addEventListener('click', logText,{
+  capture: false,
+  once: true
+}));
 </script>
 </body>
 </html>
