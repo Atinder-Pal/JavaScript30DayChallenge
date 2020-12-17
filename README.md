@@ -26,8 +26,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 12. [x] ~~Key Sequence Detection~~
 13. [x] ~~Slide in on Scroll~~
 14. [x] ~~JavaScript References vs. Copying~~
-15. [ ] LocalStorage
-16. [ ] Mouse Move Shadow
+15. [x] ~~LocalStorage~~
+16. [x] ~~Mouse Move Shadow~~
 17. [ ] Sort Without Articles
 18. [ ] Adding Up Times with Reduce
 19. [ ] Webcam Fun
