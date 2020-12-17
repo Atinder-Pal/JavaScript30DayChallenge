@@ -32,8 +32,8 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 18. [x] ~~Adding Up Times with Reduce~~
 19. [x] ~~Webcam Fun~~
 20. [x] ~~Speech Detection~~
-21. [ ] Geolocation
-22. [ ] Follow Along Link Highlighter
+21. [x] ~~Geolocation~~
+22. [x] ~~Follow Along Link Highlighter~~
 23. [ ] Speech Synthesis
 24. [ ] Sticky Nav
 25. [ ] Event Capture, Propagation, Bubbling, and Once
