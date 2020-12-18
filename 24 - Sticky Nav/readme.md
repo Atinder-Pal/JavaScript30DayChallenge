@@ -28,7 +28,7 @@ We are provided with the HTML, basic CSS necessary to create this page/applicati
 ```
 
 3. Events 
-    * tscroll
+    * scroll
 
 
 #### CSS
