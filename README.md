@@ -39,6 +39,6 @@ Original files from @wesbos and solutions can be found [here](https://github.com
 25. [x] ~~Event Capture, Propagation, Bubbling, and Once~~
 26. [x] ~~Stripe Follow Along Nav~~
 27. [x] ~~Click and Drag~~
-28. [ ] Video Speed Controller
-29. [ ] Countdown Timer
-30. [ ] Whack A Mole
+28. [x] ~~Video Speed Controller~~
+29. [x] ~~Countdown Timer~~
+30. [x] ~~Whack A Mole~~
