@@ -1,4 +1,4 @@
-21 Geolocation based Speedometer and Compass
+## 21 Geolocation based Speedometer and Compass
 In this practice, we will see a compass and speed on browser which basically tells the direction of your current location( system on which you are using the app on browser) i.e how many degrees relative to North the device's current location is and what is the speed at which device is going.<br/>
 We are provided with the HTML, CSSnecessary to create this page/application. All we need is to add JS to add the functionality.
 

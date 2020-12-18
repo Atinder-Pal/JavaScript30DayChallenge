@@ -1,4 +1,4 @@
-## 01 JavaScript Drum Stick
+## 23 Speech Synthesis
 In this practice, we build a small app that converts text to speech and has controls to manipulate the voice, rate of speech and pitch of speech. We use an API which is found in most browsers SpeechSynthesis.<br/>
 We are provided with the HTML, CSS necessary to create this page/application. All we need is to add JS to add the functionality.
 
