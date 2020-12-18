@@ -24,6 +24,8 @@ We are provided with the HTML, CSS necessary to create this page/application. Al
     * mousedown
     * mousemove
 
+3. event.pageX: Another way to get position of mouse along x axis
+
 #### CSS
 1. There are some good effects used in the CSS
     * perspective
