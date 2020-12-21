@@ -27,14 +27,3 @@ Here `customForm` is name of the HTML form element
     * click
     * submit
     
-
-#### HTML
-1. [kbd Tag](https://www.w3schools.com/Tags/tag_kbd.asp) 
-    * To represent Text as Keyboard input
-2. [audio Tag](https://www.w3schools.com/jsref/prop_audio_controls.asp)
-3. [data-* attributes](https://www.w3schools.com/tags/att_global_data.asp)
-    * data-* attributes allow us to embed/specify custom data to our HTMl elements
-    * In this practice we used dat-* attributes in div for key and audio elements to reference them via keyCode
-
-#### CSS
-1. [CSS transitions](https://www.w3schools.com/css/css3_transitions.asp) allows you to change property values smoothly, over a given duration.
