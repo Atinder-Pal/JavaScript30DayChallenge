@@ -10,7 +10,7 @@ We are provided with the HTML, CSS necessary to create this page/application. Al
 
 3. To convert a timestamp into date: new Date(timestamp);
 
-4. When we get values from HTML attributes e.g data attributes n thi scase- they will be in string format. We will then have to parse them into number to use them.
+4. When we get values from HTML attributes e.g data attributes in this case- they will be in string format. We will then have to parse them into number to use them.
 
 5. If an HTML element has "name" attribute to it, it is easy to grab that in JS (no need to use document.querySelector() or document.getElementByID():
 ```
